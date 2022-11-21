@@ -1,0 +1,17 @@
+{
+  "name": "count",
+  "version": "1.0.0",
+  "description": "Every day counts",
+  "main": "index.js",
+  "author": "Linpeiqi",
+  "homepage": "https://Lin-PQ.github.io/count",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
